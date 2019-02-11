@@ -1,8 +1,5 @@
-CS 6375.003 Machine Learning
-Assignment 3: Neural Networks
-Group Memebers:
 Swapna Chintapalli - SXC18048
-Pallavi Pandey - PXP17009
+
 
 Car Evaluation Dataset: http://archive.ics.uci.edu/ml/machine-learning-databases/car/car.csv
 
